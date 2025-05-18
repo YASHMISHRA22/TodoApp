@@ -1,1 +1,1 @@
-Deployed Link - [ todoappbyyash.netlify.app -  https://todoappbyyash.netlify.app  ]
+Deployed Link - https://todoappbyyash.netlify.app  
